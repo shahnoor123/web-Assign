@@ -1,0 +1,80 @@
+body{
+    
+    font-family: 'Caveat', cursive!important;
+
+}
+
+
+.navbar-header{
+    color: black !important;
+    font-size: 25px !important;
+    font-weight: bold !important; 
+  }
+
+
+li :hover{
+    background-color: white !important;
+    border-radius: 20px;
+}
+
+
+.conti{
+    color: black !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
+
+.huu ,.hub{
+    color: black !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+    
+}
+
+
+.dropdown-toggle{
+    color:black!important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
+
+.dropdown-menu{
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
+
+
+
+ 
+.navbar-brand{
+    color: #6A1B9A !important;
+    font-weight: bold;
+}
+
+
+
+.nav.navbar-nav{
+    background-color: #00B8D4 !important;
+}
+
+
+.item h2{
+    color:rgb(13, 162, 158) !important;
+    
+}
+
+.con{
+    color: #6A1B9A !important;
+}
+
+.navbar-header{
+    background-color: #00B8D4 !important;
+    
+}
+
+.navbar.navbar-default{
+    background-color: #00B8D4 !important;
+
+}
+
+
